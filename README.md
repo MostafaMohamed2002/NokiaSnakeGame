@@ -34,5 +34,5 @@ Welcome to NokiaSnakeGame, a faithful recreation of the classic Snake game that 
 - Game Over: Avoid hitting the walls or the snake's own body—collision ends the game.
 ## 🙏 Acknowledgments
 - Inspired by the original Snake game on Nokia devices.
-- Special thanks to my head mentor, Bareq, for assigning this challenging task and providing guidance that pushed me to deliver under a tight deadline.
-- Heartfelt gratitude to my mentor, Andrew, for his unwavering support and motivation.
+- Special thanks to my head mentor, [Bareq](https://www.linkedin.com/in/bareq/), for assigning this challenging task and providing guidance that pushed me to deliver under a tight deadline.
+- Heartfelt gratitude to my mentor, [Andrew](https://www.linkedin.com/in/andrew-abo-alhana-a47349198/?originalSubdomain=eg), for his unwavering support and motivation.
