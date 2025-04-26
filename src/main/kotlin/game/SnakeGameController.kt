@@ -20,6 +20,11 @@ class SnakeGameController(
     private var status: GameStatus = GameStatus.RUNNING
 
     fun start() {
+        renderer.render(
+            GameState(
+                snake = snake.getBody(), food = food, score = score, boardConfig = boardConfig
+            )
+        )
         while (status == GameStatus.RUNNING) {
             inputHandler.getNextDirection()?.let { direction ->
                 snake.changeDirection(direction)
